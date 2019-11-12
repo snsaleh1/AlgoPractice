@@ -1,3 +1,3 @@
-# AlgoCasts
+# AlgoPractice
 
-Companion repo to a course on Udemy.com
+Practicing coding challenges from a Udemy course to prepare for coding interviews
