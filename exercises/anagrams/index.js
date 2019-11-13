@@ -35,6 +35,16 @@ function buildCharMap(str){
     return charMap;
 }
 
+//ALTERNATE METHOD
+
+// function anagrams(stringA, stringB) {
+//     return cleanString(stringA) === cleanString(stringB);
+//  }
+ 
+//  function cleanString(str) {
+//      return str.replace(/[^\w]/g, '').toLowerCase().split('').sort().join('');
+//  }
+
 // const obj = {
 //     a: 1,
 //     b: 2,
